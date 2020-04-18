@@ -8,6 +8,7 @@
 
 	body:after {
 		display: none;
+        border-radius: 50%;
 	}
 
 /* Main */
