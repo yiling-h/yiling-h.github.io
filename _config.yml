@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+title: Yiling Huang
+SEOTitle: Yiling's Website
+email: yilingh@umich.edu	
+description: "My Personal Blog"
+keyword: "YilingHuang, Math, Statistics"
+url: "https://yiling-h.github.io"
+baseurl: ""
